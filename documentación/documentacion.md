@@ -1,5 +1,6 @@
 # Documentación 
 
+## Descripción informes y cambios realizados
 En esta sección se describe el trabajo realizado en cada versión del informe hasta la entrega final de cada uno de ellos.
 
 Informe inicial
@@ -33,3 +34,10 @@ Este informe comprende la última fase del desarrollo.
 
 Informe final
 Este informe comprende la versión final del documento del proyecto.
+
+
+## Listado de entregas parciales
+
+Durante el desarrollo del proyecto se ha utilizado Microsoft Teams como SandBox para la entrega de informes parciales, en la siguiente captura se muestra los informes parciales entregados antes de la entrega final de cada informe:
+
+![Listado Entregas Provisionales](https://github.com/pika91/pose_analysis_tfg/blob/main/documentaci%C3%B3n/entrega_informes_provisionales.JPG)
